@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/hassanchowdhury/Desktop/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/hassanchowdhury/Desktop/SlidingTabsBasic/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hassanchowdhury/Desktop/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_remove_circle_white_24px.png",
+        "source": "/Users/hassanchowdhury/Desktop/SlidingTabsBasic/Application/build/generated/res/pngs/debug/drawable-xxhdpi/ic_remove_circle_white_24px.png"
+    },
+    {
+        "merged": "/Users/hassanchowdhury/Desktop/SlidingTabsBasic/Application/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_add_circle_white_24px.png",
+        "source": "/Users/hassanchowdhury/Desktop/SlidingTabsBasic/Application/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add_circle_white_24px.png"
+    }
+]
